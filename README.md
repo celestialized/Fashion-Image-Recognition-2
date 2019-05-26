@@ -1,4 +1,4 @@
-### Fashion-Image-Multi-classification
+### Fashion Image Recognition
 
 #### This project is focusing on an image recognition problem. It is a group project for the Applied Data Science course under Statistics Deparment of Columbia University. The group constructed a variety of machine learning models with the goal of generating predictive classifications.
 
